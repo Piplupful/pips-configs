@@ -11,3 +11,4 @@ rm -rf /usr/local/go && tar -C /usr/local -xzf go1.26.3.linux-amd64.tar.gz
 
 # Pokeget: https://github.com/talwat/pokeget-rs
 cargo install pokeget
+
