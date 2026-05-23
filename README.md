@@ -18,7 +18,6 @@ A collection of linux configs, install and utility shell scripts, and cosmetic a
 ## TODO:
 
 - [ ] `zsh` fonts setup
-- [ ] pacman/apt install options in `install.sh` 
 
 ## Credits:
 
