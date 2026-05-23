@@ -1,6 +1,7 @@
 # Aliases
 alias ll="ls -lha"
 alias df="df -h"
+alias shutdown-now="shutdown -P 0"
 
 # Export ENVs
 #  Golang
